@@ -1,3 +1,4 @@
+namespace FormulaCuadraticaAppQ22026.ViewModels;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 
