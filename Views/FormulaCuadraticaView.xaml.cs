@@ -1,4 +1,4 @@
-namespace MauiApp1;
+namespace FormulaCuadraticaAppQ22026.Views;
 
 public partial class FormulaCuadraticaView : ContentPage
 {
